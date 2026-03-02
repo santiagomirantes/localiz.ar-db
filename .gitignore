@@ -2,3 +2,5 @@ package.json
 scripts
 index.js
 other_scripts
+npm_token
+.npmignore
