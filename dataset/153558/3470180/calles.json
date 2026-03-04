@@ -1,1 +1,1 @@
-{"_0":"Teniente Barcelo","t":[0,6],"b":[0,6],"_1":"Cap Caceres","c":[1,2,3],"_2":"Cap Romano","r":[2],"_3":"Cbo Mendez","m":[3,4,5],"_4":"Sgt Moya","s":[4,5],"_5":"Sold Maldonado","_6":"Tte Berdina"}
+{"_0":"Teniente Barcelo","t":[[0,0],[6,0]],"b":[[0,9],[6,4]],"_1":"Cap Caceres","c":[[1,0],[1,4],[2,0],[3,0]],"_2":"Cap Romano","r":[[2,4]],"_3":"Cbo Mendez","m":[[3,4],[4,4],[5,5]],"_4":"Sgt Moya","s":[[4,0],[5,0]],"_5":"Sold Maldonado","_6":"Tte Berdina"}

@@ -1,1 +1,1 @@
-{"1":[0],"3":[1,2,3,4],"_0":"Ruta Provincial 152","r":[0,1,2,3,4],"p":[0,1,2,3,4],"_1":"Ruta Provincial 31","_2":"Ruta Provincial 31","_3":"Ruta Provincial 31","_4":"Ruta Provincial 31","_5":"Av San Martin","a":[5],"s":[5],"m":[5]}
+{"1":[[0,16]],"3":[[1,16],[2,16],[3,16],[4,16]],"_0":"Ruta Provincial 152","r":[[0,0],[1,0],[2,0],[3,0],[4,0]],"p":[[0,5],[1,5],[2,5],[3,5],[4,5]],"_1":"Ruta Provincial 31","_2":"Ruta Provincial 31","_3":"Ruta Provincial 31","_4":"Ruta Provincial 31","_5":"Av San Martin","a":[[5,0]],"s":[[5,3]],"m":[[5,7]]}

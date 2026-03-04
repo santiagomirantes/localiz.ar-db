@@ -1,1 +1,1 @@
-{"_0":"Acceso General Alvear","a":[0,1,2,3,4],"g":[0,1],"_1":"Acceso General Alvear","_2":"Acceso Alvear","_3":"Bajada Al Rio","b":[3],"r":[3],"_4":"Camino A Spatzenkutter","c":[4,5],"s":[4],"_5":"Camino Costero","_6":"Huella","h":[6]}
+{"_0":"Acceso General Alvear","a":[[0,0],[0,15],[1,0],[1,15],[2,0],[2,7],[3,7],[4,7]],"g":[[0,7],[1,7]],"_1":"Acceso General Alvear","_2":"Acceso Alvear","_3":"Bajada Al Rio","b":[[3,0]],"r":[[3,10]],"_4":"Camino A Spatzenkutter","c":[[4,0],[5,0],[5,7]],"s":[[4,9]],"_5":"Camino Costero","_6":"Huella","h":[[6,0]]}

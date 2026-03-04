@@ -1,1 +1,1 @@
-{"_0":"Poleo","p":[0],"_1":"Ambay","a":[1,2],"_2":"Barro Azul","b":[2,6,7],"_3":"Tomillo","t":[3],"_4":"Camino del Cerro","c":[4,5],"d":[4,8],"_5":"Cañaveral","_6":"Berro","_7":"Yerba Buena","y":[7],"_8":"Duraznillo"}
+{"_0":"Poleo","p":[[0,0]],"_1":"Ambay","a":[[1,0],[2,6]],"_2":"Barro Azul","b":[[2,0],[6,0],[7,6]],"_3":"Tomillo","t":[[3,0]],"_4":"Camino del Cerro","c":[[4,0],[4,11],[5,0]],"d":[[4,7],[8,0]],"_5":"Cañaveral","_6":"Berro","_7":"Yerba Buena","y":[[7,0]],"_8":"Duraznillo"}

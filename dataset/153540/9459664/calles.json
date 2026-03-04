@@ -1,1 +1,1 @@
-{"_0":"Carril Chivilcoy","c":[0,1,4],"_1":"Carril Costa Canal Montecaseros","m":[1],"_2":"General Lavalle","g":[2],"l":[2],"_3":"Abate","a":[3,4],"_4":"Carril Anzorena","_5":"Sola","s":[5]}
+{"_0":"Carril Chivilcoy","c":[[0,0],[0,7],[1,0],[1,7],[1,13],[4,0]],"_1":"Carril Costa Canal Montecaseros","m":[[1,19]],"_2":"General Lavalle","g":[[2,0]],"l":[[2,8]],"_3":"Abate","a":[[3,0],[4,7]],"_4":"Carril Anzorena","_5":"Sola","s":[[5,0]]}

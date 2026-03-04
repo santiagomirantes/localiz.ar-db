@@ -1,1 +1,1 @@
-{"_0":"Camino a Don Cristóbal","c":[0,1,2,3],"a":[0,1,2,3],"d":[0,1],"_1":"Camino a Don Cristobal","_2":"Camino A Ramirez","r":[2],"_3":"Camino A Segui","s":[3]}
+{"_0":"Camino a Don Cristóbal","c":[[0,0],[0,13],[1,0],[1,13],[2,0],[3,0]],"a":[[0,7],[1,7],[2,7],[3,7]],"d":[[0,9],[1,9]],"_1":"Camino a Don Cristobal","_2":"Camino A Ramirez","r":[[2,9]],"_3":"Camino A Segui","s":[[3,9]]}

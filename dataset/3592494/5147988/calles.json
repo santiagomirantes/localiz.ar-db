@@ -1,1 +1,1 @@
-{"_0":"Acceso a la Gilda","a":[0,1,2],"l":[0],"g":[0],"_1":"Av Belgrano","b":[1],"_2":"Av San Martin","s":[2,4],"m":[2],"_3":"Rivadavia","r":[3,4],"_4":"Ruta Pcial S280","p":[4]}
+{"_0":"Acceso a la Gilda","a":[[0,0],[0,7],[1,0],[2,0]],"l":[[0,9]],"g":[[0,12]],"_1":"Av Belgrano","b":[[1,3]],"_2":"Av San Martin","s":[[2,3],[4,11]],"m":[[2,7]],"_3":"Rivadavia","r":[[3,0],[4,0]],"_4":"Ruta Pcial S280","p":[[4,5]]}

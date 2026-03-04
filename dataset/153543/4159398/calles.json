@@ -1,1 +1,1 @@
-{"_0":"Avenida de los Colonizadores","a":[0,4],"d":[0,3],"l":[0],"c":[0],"_1":"Silvestre Begnis","s":[1,4],"b":[1],"_2":"Rosario","r":[2],"_3":"Doctor Favaloro","f":[3],"_4":"Avenida San Martín","m":[4]}
+{"_0":"Avenida de los Colonizadores","a":[[0,0],[4,0]],"d":[[0,8],[3,0]],"l":[[0,11]],"c":[[0,15]],"_1":"Silvestre Begnis","s":[[1,0],[4,8]],"b":[[1,10]],"_2":"Rosario","r":[[2,0]],"_3":"Doctor Favaloro","f":[[3,7]],"_4":"Avenida San Martín","m":[[4,12]]}
