@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>localiz.ar filtros</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      href="https://cdn.jsdelivr.net/gh/PrismJS/prism-themes/themes/prism-xonokai.css"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/prismjs@1.21.0/plugins/toolbar/prism-toolbar.css">
+    <link rel="stylesheet" href="filter.css" />
+  </head>
+  <body>
+    <h1>Filtrar datos de <a href="https://github.com/santiagomirantes/localiz.ar">localiz.ar</a></h1>
+    <p>Esta herramienta te permite crear los <b>objetos de filtro</b> que se deben pasar en la función <a href="https://github.com/santiagomirantes/localiz.ar/blob/main/integration/external_front.md" target="_blank">localiz_ar.start().</a></p>
+    <p>Para crearlos, selecciona las provincias y ciudades que deseas incluir.</p>
+    <form class="filter"></form>
+    <button class="submit">Generar filtro</button>
+
+    <pre class="result" id="result">
+        <code class="language-js">{}</code>
+      </pre>
+    <script src="https://cdn.jsdelivr.net/npm/prismjs/prism.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/prismjs@1.21.0/plugins/toolbar/prism-toolbar.min.js"></script>
+    <script src="https://unpkg.com/prismjs/plugins/copy-to-clipboard/prism-copy-to-clipboard.min.js"></script>
+    <script src="filter.js"></script>
+  </body>
+</html>
